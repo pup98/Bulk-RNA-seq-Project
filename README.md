@@ -26,5 +26,5 @@ PCA Plot:
 <img width="500" alt="pca" src="https://github.com/user-attachments/assets/c3f11a10-86b9-42ba-8937-25f617ad1718" /> <br/>
 
 <br/>
-Learning source: __Link__ : https://github.com/gladstone-institutes/Bioinformatics-Workshops/wiki/Introduction-to-RNA-Seq-Analysis
+Learning source: https://github.com/gladstone-institutes/Bioinformatics-Workshops/wiki/Introduction-to-RNA-Seq-Analysis
 
